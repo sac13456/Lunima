@@ -33,12 +33,13 @@ public class SplashTextResourceSupplierMixin {
 
     private static List<String> getMeteorSplashes() {
         return Arrays.asList(
-                "Lambda Shade on Crack!",
-                "Star Lambda Shade on GitHub!",
-                "Better than BleachHack!.",
-                "§6Choroalp §fbased god",
-                "§4Lambda Shade on Crack!",
-                "§6AlpHax on Crack!"
+                "Fishb",
+                "Totally not ratted",
+                "IKER_Luvely is a dumbass",
+                "IKER_Luvely has trouble writing Hello world app in Java",
+                "λλλλλλλλλλ",
+                "50 Shades 0f λ",
+                "Lambda Shade > Lunima"
         );
     }
 
